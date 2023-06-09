@@ -1,0 +1,20 @@
+\STAR_ID                                  = "HD 17156"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "29"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2454398.58856"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454438.72713"
+\MINIMUM_VALUE                            = "-92.59"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "100.47"
+\REFERENCE                                = "Barbieri et al. 2009 (A&A, 503, 601)"
+\BIBCODE                                  = "2009A&A...503..601B"
+\TELESCOPE                                = "TNG"
+\INSTRUMENT                               = "SARG"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |

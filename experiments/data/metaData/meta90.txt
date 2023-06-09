@@ -1,0 +1,20 @@
+\STAR_ID                                  = "Gl 86"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "24"
+\TIME_REFERENCE_FRAME                     = "MJD"
+\MINIMUM_DATE                             = "2454470.519076"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454483.520342"
+\MINIMUM_VALUE                            = "55417.30"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "56348.60"
+\REFERENCE                                = "Figueira et al. 2009 (arXiv, 0912, 2643)"
+\BIBCODE                                  = "2009arXiv0912.2643F"
+\TELESCOPE                                = "8.2m Antu (UT1)"
+\INSTRUMENT                               = "CRIRES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Not Given"
+\OBSERVATORY_SITE                         = "ESO VLT, Paranal Observatory, Chile"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+|            MJD | Radial_Velocity | Photon_Noise |
+|         double |          double |       double |
+|           days |             m/s |          m/s |

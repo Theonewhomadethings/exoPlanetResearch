@@ -1,0 +1,20 @@
+\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
+\                                                             \
+\ GLOBAL PROPERTIES                                           \
+\                                                             \
+\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
+\STAR_ID                                  = "XO-5"
+\STAR_ID_DEFINED                          = "Published star name or ID number of star assigned by survey"
+\NSTED_DEFAULT_ID                         = "XO-5"
+\NSTED_DEFAULT_ID_DEFINED                 = "NStED default name"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\DATA_CATEGORY_DEFINED                    = "Category of time series data"
+\PUBLIC                                   = "Y"
+\PUBLIC_DEFINED                           = "Y if data are public; N if data are proprietary"
+\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
+\                                                             \
+\ TIME SERIES DATA BASIC PROPERTIES                           \
+\                                                             \
+\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
+\NUMBER_OF_POINTS                         = "16"
+\NUMBER_OF_POINTS_DEFINED                 = "Total number of data points in time series"

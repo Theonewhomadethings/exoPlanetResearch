@@ -1,0 +1,20 @@
+\STAR_ID                                  = "HD 1461"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "28"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2453713.70121"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2453730.80874"
+\MINIMUM_VALUE                            = "-5.62"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "3.44"
+\REFERENCE                                = "Rivera et al. 2010 (ApJ, 708, 1492)"
+\BIBCODE                                  = "2010ApJ...708.1492R"
+\TELESCOPE                                = "NASA-Keck Observatory Archive"
+\INSTRUMENT                               = "Not given"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |
